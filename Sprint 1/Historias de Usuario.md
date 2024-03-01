@@ -49,4 +49,4 @@
 |**Criterio de aceptación:**|**Dado** que el usuario accede al software, **cuando** el software muestra la interfaz de usuario, **entonces** el software muestra una interfaz de usuario intuitiva, simple y atractiva, que sigue las mejores prácticas de diseño de interfaces.|
 |||
 
----
+
